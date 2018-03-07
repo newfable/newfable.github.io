@@ -1,6 +1,6 @@
 # Site settings
 title: On My Way
-SEOTitle: 冷不丁的博客 | On My Way
+SEOTitle: 冷不丁的博客 | OnMyWay
 header-img: img/post-bg-desk.jpg
 email: newfable@gmail.com
 description: "Every failure is leading towards success."
@@ -19,10 +19,10 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+zhihu_username:     
+github_username:    
+facebook_username:  
+jianshu_username:   
 #twitter_username:   qiubaiying
 
 
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4   #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d  #同上
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 20776daae00ab2e0dafc   #生成的clientID
+  clientSecret: ce1fe060511e5350423db90dccb8f28ad0800b37  #同上
+  repo: newfable.github.io    #仓库名称
+  owner: newfable    #github用户名
+  admin: newfable
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
