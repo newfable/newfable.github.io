@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      「骑行云南边境」之昆明、河口、瑞丽、大理
-subtitle:    漆黑的天空中星星璀璨生辉，让人不觉深深地沉醉其中。
+subtitle:    漆黑的天空中星星璀璨生辉，让人不觉深深地沉醉其中
 date:       2018-03-24
 author:     冷不丁
 header-img: img/post-bg-os-metro.jpg
